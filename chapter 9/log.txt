@@ -1,0 +1,4 @@
+Infrared waves are used for very short distance communication. They
+cannot use python penetrate through obstacles. This prevents interference between
+systems. Frequency Range:300GHz – 400THz. It is used in TV remotes,
+wireless mouse, keyboard, printer, etc.
